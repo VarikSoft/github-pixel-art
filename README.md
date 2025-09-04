@@ -115,7 +115,7 @@ Keep it private; you’ll paste it into the app.
 
 ## 📦 Project Structure (typical)
 ```
-your-repo/
+github-pixel-art/
 ├── bot.py           # the GUI application
 ├── pixels.txt       # generated log file of dated commits
 └── README.md
